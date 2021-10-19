@@ -1,0 +1,279 @@
+./build
+: No such file or directoryp
+./build: line 2: $'\r': command not found
+: No such file or directorycpp
+./build: line 4: $'\r': command not found
+In file included from alloween.h:157,
+                 from loadjpeg_linux.h:4:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from bspfile.h:6:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from camera.h:6:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from player.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from physic.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from collision.h:6:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from maths.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from ellipsoide.h:6:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from console.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from bsptree.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from opengl.h:6:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from demo.h:4:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from display.h:6:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from enveffect.h:4:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from filesys.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from frustrum.h:4:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from game.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from gameover.h:4:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from image.h:4:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from input.h:4:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from interface.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from jpeg.h:6:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from liste.h:6:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from menu.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from menu_init.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from menu_sel.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from monster.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from mskmodel.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from objet_proc.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from script.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+shader.h:3:6: error: variable or field ‘shader_Skydome’ declared void
+    3 | void shader_Skydome(pFace Face);
+      |      ^~~~~~~~~~~~~~
+shader.h:3:21: error: ‘pFace’ was not declared in this scope
+    3 | void shader_Skydome(pFace Face);
+      |                     ^~~~~
+shader.h:4:6: error: variable or field ‘shader_Sky’ declared void
+    4 | void shader_Sky(pFace Face);
+      |      ^~~~~~~~~~
+shader.h:4:17: error: ‘pFace’ was not declared in this scope
+    4 | void shader_Sky(pFace Face);
+      |                 ^~~~~
+shader.h:5:6: error: variable or field ‘shader_Gun’ declared void
+    5 | void shader_Gun(pFace Face);
+      |      ^~~~~~~~~~
+shader.h:5:17: error: ‘pFace’ was not declared in this scope
+    5 | void shader_Gun(pFace Face);
+      |                 ^~~~~
+shader.h:6:6: error: variable or field ‘shader_Lave’ declared void
+    6 | void shader_Lave(pFace Face);
+      |      ^~~~~~~~~~~
+shader.h:6:18: error: ‘pFace’ was not declared in this scope
+    6 | void shader_Lave(pFace Face);
+      |                  ^~~~~
+shader.h:7:6: error: variable or field ‘shader_Lightmap’ declared void
+    7 | void shader_Lightmap(pFace pCurr);
+      |      ^~~~~~~~~~~~~~~
+shader.h:7:22: error: ‘pFace’ was not declared in this scope
+    7 | void shader_Lightmap(pFace pCurr);
+      |                      ^~~~~
+In file included from alloween.h:157,
+                 from sorting.h:4:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from textdraw.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from tga.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from timer.h:6:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+In file included from alloween.h:157,
+                 from objet.h:5:
+libsound_linux.h:8:10: fatal error: KSound.h: No such file or directory
+    8 | #include "KSound.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+net_temp_linux.h:8:53: error: ‘vect_t’ has not been declared
+    8 | void    net_NetLaunchEnt(int entid, int launcherid, vect_t startpos, vect_t rot, vect_t vel, short IsServer);
+      |                                                     ^~~~~~
+net_temp_linux.h:8:70: error: ‘vect_t’ has not been declared
+    8 | et_NetLaunchEnt(int entid, int launcherid, vect_t startpos, vect_t rot, vect_t vel, short IsServer);
+      |                                                             ^~~~~~
+
+net_temp_linux.h:8:82: error: ‘vect_t’ has not been declared
+    8 | Ent(int entid, int launcherid, vect_t startpos, vect_t rot, vect_t vel, short IsServer);
+      |                                                             ^~~~~~
+
+net_temp_linux.h:14:9: error: variable or field ‘net_SendVectorState’ declared void
+   14 | void    net_SendVectorState(pEntity Ent, int vstate);
+      |         ^~~~~~~~~~~~~~~~~~~
+net_temp_linux.h:14:29: error: ‘pEntity’ was not declared in this scope
+   14 | void    net_SendVectorState(pEntity Ent, int vstate);
+      |                             ^~~~~~~
+net_temp_linux.h:14:42: error: expected primary-expression before ‘int’
+   14 | void    net_SendVectorState(pEntity Ent, int vstate);
+      |                                          ^~~
+net_temp_linux.h:15:9: error: variable or field ‘net_RemoveClientEnt’ declared void
+   15 | void    net_RemoveClientEnt(pEntity Ent);
+      |         ^~~~~~~~~~~~~~~~~~~
+net_temp_linux.h:15:29: error: ‘pEntity’ was not declared in this scope
+   15 | void    net_RemoveClientEnt(pEntity Ent);
+      |                             ^~~~~~~
+net_temp_linux.h:17:1: error: ‘hBool’ does not name a type
+   17 | hBool  cl_Create();
+      | ^~~~~
+./build: line 6: $'\r': command not found
